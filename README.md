@@ -142,37 +142,10 @@ Final:     Training 3.644 | Validation 3.763
 ## 🚀 Future Work
 
 **Priority 1** (High Impact):
-1. Train 5-10 epochs
+1. Use more epochs
 2. Fix EmpatheticDialogues loading
-3. Add safety content filter
 4. Use larger model (1.7B/3B)
 
-**Priority 2** (Better Architecture):
-5. Implement multi-objective loss
-6. Add emotion classification head
-7. Add support strategy head
-8. Safety KL regularization
-
-**Priority 3** (Better Evaluation):
-9. Official EQ-Bench v3 toolkit
-10. Human evaluation
-11. Ablation studies
-
-## 📚 References
-
-- [QLoRA Paper](https://arxiv.org/abs/2305.14314) - Dettmers et al., 2023
-- [Qwen Technical Report](https://arxiv.org/abs/2309.16609) - Qwen Team, 2023
-- [EmpatheticDialogues](https://arxiv.org/abs/1811.00207) - Rashkin et al., 2019
-- [ESConv](https://aclanthology.org/2021.acl-long.269/) - Liu et al., 2021
-- [GoEmotions](https://arxiv.org/abs/2005.00547) - Demszky et al., 2020
-
-## 🤝 Contributing
-
-Contributions welcome! Particularly:
-- Fixing dataset loading issues
-- Implementing safety guardrails
-- Adding auxiliary classification heads
-- Running longer training experiments
 
 ## 📄 License
 
