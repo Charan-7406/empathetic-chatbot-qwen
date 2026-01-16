@@ -130,12 +130,6 @@ Final:     Training 3.644 | Validation 3.763
 
 
 
-### **Why Low EQ Score?**
-The 0% EQ-Bench score is misleading:
-- Scoring uses **strict keyword matching** ("empathy", "support", "validation")
-- Model uses **semantically equivalent phrases** ("I can relate", "I'm here for you")
-- **Qualitative analysis shows significant improvement** in empathy
-
 ## 🔧 Technical Challenges Solved
 
 | Issue | Solution |
