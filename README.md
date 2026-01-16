@@ -128,11 +128,7 @@ Final:     Training 3.644 | Validation 3.763
 - ❌ Partial dataset (EmpatheticDialogues failed to load)
 - ❌ Single T4 GPU (required 4-bit quantization)
 
-### **Methodology Gaps**
-- ❌ No auxiliary classification heads
-- ❌ No safety regularization
-- ❌ No ablation studies
-- ❌ Keyword-based evaluation (not semantic)
+
 
 ### **Why Low EQ Score?**
 The 0% EQ-Bench score is misleading:
